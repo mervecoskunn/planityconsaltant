@@ -1,0 +1,46 @@
+.container{
+    width: 100%;
+    height: auto;
+}
+.img-fluid{
+    width: 100%;
+    height: auto;
+
+}
+.coming-soon{
+    display: flex;
+    position: relative;
+
+}
+.text{
+    width: 40rem;
+    color: white;
+    position: absolute;
+    display: block;
+    margin-left: 60%;
+    padding-top: 20%;
+
+}
+.mail{
+    text-decoration: none;
+    color: rgb(163, 163, 240);
+
+
+}
+.mail:hover{
+    color:whitesmoke;
+    cursor:pointer ;
+    box-shadow: 0 8px 8px rgba(30, 80, 198, 0.5);
+    border-radius: .2rem;
+
+}
+.icons ul li {
+    list-style-type: none;
+}
+.icons:hover{
+    color:whitesmoke;
+    cursor:pointer ;
+    box-shadow: 0 2px 2px rgba(30, 80, 198, 0.5);
+    border-radius: .2rem;
+
+}
